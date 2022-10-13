@@ -1,4 +1,4 @@
-header{
+.header{
     margin-left: 55px;
     margin-top: 104px;
     font-size: 30px;
@@ -10,6 +10,7 @@ header{
     flex-flow: wrap;
     align-items: baseline;
     border-radius: 5px;
+    margin-left: 55px;
 }
 .color1{
     background-color:#f07878 ;
